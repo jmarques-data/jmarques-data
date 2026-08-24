@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Juan Marques Rodrigues 👋</h1>
 
 <p align="center">
-  <b>Técnico de Suporte em TI | Infraestrutura Corporativa, SQL e ITIL 4</b><br>
-  Estudante de Análise e Desenvolvimento de Sistemas (Newton Paiva)
+  <b>Infraestrutura Corporativa • Engenharia de Dados • Automação & Sitelogs</b><br>
+  Construindo ambientes resilientes, investigando falhas via SQL e estruturando pipelines de dados.
 </p>
 
 <p align="center">
@@ -16,36 +16,36 @@
 
 ---
 
-### 💻 Sobre Mim
+### ⚡ Sobre Mim
 
-Quando um sistema falha, o prejuízo começa em segundos. Meu trabalho é garantir que isso não aconteça e, quando acontece, que a recuperação seja rápida, documentada e não se repita. 
+Atuo na intersecção entre a **Infraestrutura de TI de missão crítica** e a **Análise/Engenharia de Dados**. Meu foco é garantir a estabilidade de ecossistemas corporativos complexos (SaaS e ambientes locais) e transformar dados brutos e logs de sistemas em diagnósticos precisos e soluções escaláveis.
 
-*   Atuo em **Suporte Técnico N2** com foco em infraestrutura corporativa, troubleshooting avançado e análise de dados via **SQL**.
-*   Atualmente na **Grupo Otimiza**, sou responsável por diagnóstico de incidentes em ambientes SaaS, triagem técnica para o time de desenvolvimento e conformidade com ITIL® 4 e LGPD.
-*   Graduando em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Newton Paiva (Previsão de conclusão: Dez/2026), aplicando conceitos de arquitetura de software e modelagem de dados nas minhas entregas diárias.
-*   Aberto a oportunidades remotas em **Operações (N2) e Dados**.
-
----
-
-### 🚀 Principais Entregas e Impactos
-
-*   **Escalabilidade & Onboarding:** Provisionamento ágil de 10 a 15 estações de trabalho/dia, garantindo configuração padronizada de Active Directory (AD), redes e Microsoft 365.
-*   **Resolução de Causa Raiz:** Diagnóstico assertivo de falhas sistêmicas via consultas SQL, reduzindo o downtime e otimizando o tempo de resposta a incidentes críticos.
-*   **Infraestrutura Resiliente:** Implantação de redes locais e estruturação de documentação técnica (ITSM) orientada à continuidade dos negócios.
-*   **Compliance:** Aplicação transversal de boas práticas de Segurança da Informação e conformidade com a LGPD.
+*   **Infraestrutura & SRE/Suporte N2:** Gestão de ambientes corporativos, provisionamento em larga escala, Active Directory (AD), redes e governança sob ITIL 4.
+*   **Dados & Querying:** Investigação de causa raiz, extração e análise de anomalias sistêmicas utilizando **SQL avançado**.
+*   **Desenvolvimento:** Graduando em Análise e Desenvolvimento de Sistemas (Newton Paiva), aplicando conceitos modernos de arquitetura, automação de processos e modelagem.
 
 ---
 
-### 🛠️ Habilidades e Tecnologias
+### 🛠️ Stack Tecnológica & Ferramentas
 
-*   **Infraestrutura & Suporte:** Active Directory (AD), Microsoft 365, Redes Locais (Roteadores, Switches, APs), Hardware, ITSM, First Call Resolution (FCR).
-*   **Dados & Consultas:** SQL, Modelagem de Dados.
-*   **Metodologias & Governança:** ITIL 4, LGPD, Documentação Técnica, Segurança da Informação.
+*   **Banco de Dados & Consultas:** `SQL` `Modelagem Relacional` `Diagnóstico via Dados`
+*   **Infraestrutura & Redes:** `Active Directory (AD)` `Microsoft 365` `Redes TCP/IP` `Switches/Roteadores` `Hardware`
+*   **Sistemas & Governança:** `SaaS Corporativos` `Sistemas ITSM` `ITIL 4` `LGPD & Segurança da Informação`
+*   **Automação & Linguagens:** Ferramentas de script, versionamento e automação de rotinas de TI.
+
+---
+
+### 📂 O que você vai encontrar por aqui
+
+Este perfil está sendo estruturado para hospedar meus repositórios práticos, scripts de automação, estudos de modelagem de dados e ferramentas de infraestrutura:
+1.  **Scripts SQL & Consultas de Diagnóstico:** Queries para auditoria, isolamento de falhas e extração de métricas de sistemas.
+2.  **Projetos de Infraestrutura & Automação:** Documentações e códigos voltados para otimização de ambientes e provisionamento.
+3.  **Repositórios Acadêmicos & Práticos:** Trabalhos desenvolvidos na faculdade voltados a arquitetura de software e banco de dados.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmarques-data&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmarques-data&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
