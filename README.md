@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Juan Marques Rodrigues 👋</h1>
 
 <p align="center">
-  <b>Infraestrutura Corporativa • Engenharia de Dados • Automação & Sitelogs</b><br>
-  Construindo ambientes resilientes, investigando falhas via SQL e estruturando pipelines de dados.
+  <b>Infraestrutura de TI • Suporte Técnico N2 • Documentação & Processos (POPs)</b><br>
+  Organizando ambientes corporativos, estruturando documentações técnicas e garantindo a continuidade das operações.
 </p>
 
 <p align="center">
@@ -18,29 +18,30 @@
 
 ### ⚡ Sobre Mim
 
-Atuo na intersecção entre a **Infraestrutura de TI de missão crítica** e a **Análise/Engenharia de Dados**. Meu foco é garantir a estabilidade de ecossistemas corporativos complexos (SaaS e ambientes locais) e transformar dados brutos e logs de sistemas em diagnósticos precisos e soluções escaláveis.
+Atuo na linha de frente e retaguarda do **Suporte de TI (N2)**[cite: 1], lidando com ambientes corporativos de missão crítica[cite: 1], resolução de incidentes[cite: 1] e estruturação de rotinas. Meu foco é resolver problemas com agilidade e transformar processos complexos em **documentações claras, padronizadas e fáceis de aplicar**.
 
-*   **Infraestrutura & SRE/Suporte N2:** Gestão de ambientes corporativos, provisionamento em larga escala, Active Directory (AD), redes e governança sob ITIL 4.
-*   **Dados & Querying:** Investigação de causa raiz, extração e análise de anomalias sistêmicas utilizando **SQL avançado**.
-*   **Desenvolvimento:** Graduando em Análise e Desenvolvimento de Sistemas (Newton Paiva), aplicando conceitos modernos de arquitetura, automação de processos e modelagem.
+*   **Infraestrutura & Suporte N2:** Gestão de estações de trabalho[cite: 1], Active Directory (AD)[cite: 1], redes locais[cite: 1] e ambientes SaaS[cite: 1].
+*   **Documentação & Processos:** Criação pesada de **POPs (Procedimentos Operacionais Padrão)**[cite: 1], documentação técnica de dados, manuais de incidentes e guias para otimizar o tempo de atendimento[cite: 1].
+*   **Metodologias:** Alinhamento das rotinas de atendimento e suporte com as práticas do **ITIL 4**[cite: 1].
+*   **Desenvolvimento:** Graduando em Análise e Desenvolvimento de Sistemas (Newton Paiva)[cite: 1], aplicando o aprendizado prático na melhoria dos fluxos de TI.
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-*   **Banco de Dados & Consultas:** `SQL` `Modelagem Relacional` `Diagnóstico via Dados`
-*   **Infraestrutura & Redes:** `Active Directory (AD)` `Microsoft 365` `Redes TCP/IP` `Switches/Roteadores` `Hardware`
-*   **Sistemas & Governança:** `SaaS Corporativos` `Sistemas ITSM` `ITIL 4` `LGPD & Segurança da Informação`
-*   **Automação & Linguagens:** Ferramentas de script, versionamento e automação de rotinas de TI.
+*   **Infraestrutura & Redes:** `Active Directory (AD)` `Microsoft 365` `Redes Locais (Switches/Roteadores)` `Hardware`[cite: 1]
+*   **Gestão & Atendimento:** `Sistemas ITSM` `ITIL 4` `First Call Resolution (FCR)`[cite: 1]
+*   **Documentação & Organização:** `POPs` `Procedimentos de TI` `Documentação Técnica e de Dados`[cite: 1]
+*   **Banco de Dados (Consultas Básicas):** `SQL (Consultas de apoio/diagnóstico)`[cite: 1]
 
 ---
 
 ### 📂 O que você vai encontrar por aqui
 
-Este perfil está sendo estruturado para hospedar meus repositórios práticos, scripts de automação, estudos de modelagem de dados e ferramentas de infraestrutura:
-1.  **Scripts SQL & Consultas de Diagnóstico:** Queries para auditoria, isolamento de falhas e extração de métricas de sistemas.
-2.  **Projetos de Infraestrutura & Automação:** Documentações e códigos voltados para otimização de ambientes e provisionamento.
-3.  **Repositórios Acadêmicos & Práticos:** Trabalhos desenvolvidos na faculdade voltados a arquitetura de software e banco de dados.
+Este repositório serve de central para os meus projetos práticos, códigos e modelos de organização técnica:
+1.  **Scripts e Rotinas:** Pequenos códigos ou scripts de apoio para automação e suporte.
+2.  **Modelos de Documentação:** Exemplos práticos de como estruturo POPs, relatórios de incidentes e documentações de TI.
+3.  **Projetos Acadêmicos:** Trabalhos e códigos desenvolvidos durante minha graduação em Análise e Desenvolvimento de Sistemas.
 
 ---
 
