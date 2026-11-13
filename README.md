@@ -1,61 +1,63 @@
-<div align="center">
-Juan Marques
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3200&pause=1200&color=8A8A8A&center=true&vCenter=true&width=520&lines=Suporte+de+Infraestrutura+N2;Estudando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Migrando%2C+aos+poucos%2C+para+Dados+e+IA" alt="Suporte de Infraestrutura N2 · Estudando ADS · Migrando para Dados e IA" />
-</div>
-<br>
-Trabalho hoje como Técnico de Suporte N2 na Otimiza, em modelo híbrido, resolvendo problema de infraestrutura e mantendo ambiente corporativo de pé. Em paralelo, estou terminando Análise e Desenvolvimento de Sistemas na Newton Paiva — conclusão prevista pra dezembro de 2026 — e usando esse tempo pra estudar SQL, Python e os fundamentos de IA aplicada: embeddings, busca semântica, RAG.
-Não estou me vendendo como analista de dados. Estou construindo o caminho até lá, um projeto de cada vez.
-<br>
-<div align="center">
-<sub>· · ·</sub>
-</div>
-<br>
-o que eu faço hoje
-Suporte técnico N2 para sistemas internos e infraestrutura corporativa — Active Directory, redes locais, ambientes SaaS, abertura e resolução de chamados. Boa parte do trabalho é documentação: escrever POPs e procedimentos claros o bastante pra quem vier depois não precisar me perguntar nada, alinhados com práticas de ITIL 4.
-<br>
-o que estou construindo
-<div align="center">
-<img src="./assets/pipeline-flow.svg" width="640" alt="Pipeline: documentos markdown processados em chunks, convertidos em embeddings e armazenados no ChromaDB" />
-</div>
-<br>
-O projeto mais sério que tenho até agora é um pipeline de ingestão e vetorização de documentação técnica — a base de um sistema de busca semântica.
-Ele pega documentos Markdown (procedimentos, dicionários técnicos, tickets sintéticos de suporte), processa o texto, divide em chunks com overlap, gera embeddings e guarda tudo num banco vetorial local com ChromaDB.
-Ainda não tem RAG. Ainda não tem LLM conectado. Ainda não tem uma camada de busca semântica de ponta a ponta. É a fundação — e é nela que estou focando agora, validando cada camada antes de empilhar a próxima.
+<p align="center">
+  <img src="assets/banner.png" alt="Juan Marques · IA, Dados e Automações" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanmarrques"><img src="https://img.shields.io/badge/LinkedIn-juanmarrques-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/foco-IA%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%B5es-4f8cff?style=flat-square" alt="Foco: IA, Dados e Automações">
+  <img src="https://img.shields.io/badge/ADS-Newton%20Paiva%20%C2%B7%202026-c4b5fd?style=flat-square" alt="ADS · Newton Paiva · 2026">
+</p>
+
+## 👋 Olá, eu sou o Juan
+
+Sou **Técnico de Suporte N2** na Otimiza e estou terminando **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em dezembro de 2026).
+
+No dia a dia, resolvo problemas de infraestrutura e escrevo documentação que outras pessoas conseguem seguir sozinhas. Fora dele, construo projetos práticos de **IA aplicada, dados e automação**: pipelines de embeddings, busca semântica e fluxos de trabalho com o **Claude Code**.
+
+Gosto de IA que resolve problema de verdade, não como buzzword. Por isso, cada projeto aqui é construído em camadas, validando uma antes de empilhar a próxima.
+
+## 🚀 Projetos em destaque
+
 <table>
-<tr><td><b>projeto</b></td><td><code>knowledge-base-vectorization</code></td></tr>
-<tr><td><b>resolve</b></td><td>transforma documentação técnica solta em dado pronto pra busca semântica</td></tr>
-<tr><td><b>stack</b></td><td>Python · ChromaDB · ONNX Runtime · all-MiniLM-L6-v2</td></tr>
-<tr><td><b>link</b></td><td><a href="https://github.com/jmarques-data/knowledge-base-vectorization">github.com/jmarques-data/knowledge-base-vectorization</a></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jmarques-data/segundo-cerebro-ia">
+        <img src="https://raw.githubusercontent.com/jmarques-data/segundo-cerebro-ia/main/docs/banner.png" alt="Segundo Cérebro com IA" width="100%">
+      </a>
+      <h3><a href="https://github.com/jmarques-data/segundo-cerebro-ia">Segundo Cérebro com IA</a></h3>
+      Modelo de segundo cérebro em Markdown para usar com o Claude Code: capturar, organizar, revisar a semana e decidir as próximas ações.
+      <br><br>
+      <code>Claude Code</code> <code>Markdown</code> <code>Produtividade</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jmarques-data/knowledge-base-vectorization">
+        <img src="https://raw.githubusercontent.com/jmarques-data/knowledge-base-vectorization/main/docs/banner.png" alt="Knowledge Base Vectorization" width="100%">
+      </a>
+      <h3><a href="https://github.com/jmarques-data/knowledge-base-vectorization">Knowledge Base Vectorization</a></h3>
+      Pipeline em Python que transforma documentação técnica em embeddings e guarda tudo no ChromaDB: a base para busca semântica e RAG.
+      <br><br>
+      <code>Python</code> <code>ChromaDB</code> <code>Embeddings</code>
+    </td>
+  </tr>
 </table>
-<br>
-stack
-infraestrutura — dia a dia
-<br>
-<code>Active Directory</code> <code>Microsoft 365</code> <code>Redes locais</code> <code>ITSM / ITIL 4</code>
-dados — em desenvolvimento
-<br>
-<img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=d9d9d9" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=d9d9d9" alt="SQL" />
-<img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=d9d9d9" alt="Git" />
-IA aplicada — em estudo
-<br>
-<img src="https://img.shields.io/badge/ChromaDB-1a1a1a?style=flat-square&logoColor=d9d9d9" alt="ChromaDB" />
-<code>Embeddings</code> <code>RAG</code> <code>LLMs</code>
-<br>
-direção
-A ideia não é virar cientista de dados da noite pro dia. É migrar aos poucos do suporte de infraestrutura para um lugar onde eu resolva problema com dado — análise, automação, sistemas que usam IA de forma prática, não como buzzword.
-Hoje isso significa aprofundar SQL e Python, entender de verdade os fundamentos de um pipeline de RAG, e mirar em vagas remotas ou híbridas na área de dados.
-<br>
-<div align="center">
-<sub>· · ·</sub>
-</div>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jmarques-data&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=true&include_all_commits=true&hide=prs,issues" width="420" alt="GitHub stats de jmarques-data" />
-</div>
-<br>
-<div align="center">
-<a href="mailto:juanrodrigueswork@gmail.com"><img src="https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=d9d9d9" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/juanmarrques"><img src="https://img.shields.io/badge/linkedin-1a1a1a?style=flat-square&logo=linkedin&logoColor=d9d9d9" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/jmarques.tech"><img src="https://img.shields.io/badge/instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=d9d9d9" alt="Instagram" /></a>
-</div>
+
+## 🧰 Ferramentas
+
+**IA aplicada**<br>
+<img src="https://img.shields.io/badge/Claude%20Code-1a1530?style=flat-square&logo=anthropic&logoColor=c4b5fd" alt="Claude Code"> <img src="https://img.shields.io/badge/ChromaDB-1a1530?style=flat-square" alt="ChromaDB"> <img src="https://img.shields.io/badge/Embeddings-1a1530?style=flat-square" alt="Embeddings"> <img src="https://img.shields.io/badge/RAG%20(estudando)-1a1530?style=flat-square" alt="RAG (estudando)">
+
+**Dados e automação**<br>
+<img src="https://img.shields.io/badge/Python-1a1530?style=flat-square&logo=python&logoColor=c4b5fd" alt="Python"> <img src="https://img.shields.io/badge/SQL-1a1530?style=flat-square&logo=postgresql&logoColor=c4b5fd" alt="SQL"> <img src="https://img.shields.io/badge/Git-1a1530?style=flat-square&logo=git&logoColor=c4b5fd" alt="Git"> <img src="https://img.shields.io/badge/Markdown-1a1530?style=flat-square&logo=markdown&logoColor=c4b5fd" alt="Markdown">
+
+**Infraestrutura (dia a dia)**<br>
+<img src="https://img.shields.io/badge/Active%20Directory-1a1530?style=flat-square" alt="Active Directory"> <img src="https://img.shields.io/badge/Microsoft%20365-1a1530?style=flat-square" alt="Microsoft 365"> <img src="https://img.shields.io/badge/Redes-1a1530?style=flat-square" alt="Redes"> <img src="https://img.shields.io/badge/ITIL%204-1a1530?style=flat-square" alt="ITIL 4">
+
+## 🧭 Agora
+
+- 🔨 Construindo a camada de **busca semântica** e o primeiro **RAG** do Knowledge Base Vectorization
+- 📚 Aprofundando **SQL** e **Python** para dados
+- 🎯 Buscando vagas **remotas ou híbridas** em dados, IA e automação
+
+---
+
+<sub>🇺🇸 <b>In English:</b> IT support analyst (Tier 2) finishing a degree in Systems Analysis and Development, building hands-on projects in applied AI, data and automation: embeddings, semantic search and Claude Code workflows. Open to remote or hybrid roles in data and AI.</sub>
