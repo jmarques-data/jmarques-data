@@ -10,7 +10,7 @@
 
 ## 👋 Olá, eu sou o Juan
 
-Trabalho com **suporte técnico** no Grupo Otimiza, já passei pelo N1 e pelo N2, e curso **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em abril de 2027).
+Trabalho com **suporte técnico**, já passei pelo N1 e pelo N2, e curso **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em abril de 2027).
 
 No dia a dia, resolvo problemas de infraestrutura e escrevo documentação que outras pessoas conseguem seguir sozinhas. Fora dele, construo projetos práticos de **IA aplicada, dados e automação**: pipelines de embeddings, busca semântica e fluxos de trabalho com o **Claude Code**.
 
