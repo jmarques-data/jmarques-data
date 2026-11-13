@@ -10,7 +10,7 @@
 
 ## 👋 Olá, eu sou o Juan
 
-Sou **Técnico de Suporte N2** na Otimiza e estou terminando **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em dezembro de 2026).
+Sou **Técnico de Suporte N2** e estou terminando **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em dezembro de 2026).
 
 No dia a dia, resolvo problemas de infraestrutura e escrevo documentação que outras pessoas conseguem seguir sozinhas. Fora dele, construo projetos práticos de **IA aplicada, dados e automação**: pipelines de embeddings, busca semântica e fluxos de trabalho com o **Claude Code**.
 
