@@ -5,12 +5,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/juanmarrques"><img src="https://img.shields.io/badge/LinkedIn-juanmarrques-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/foco-IA%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%B5es-4f8cff?style=flat-square" alt="Foco: IA, Dados e Automações">
-  <img src="https://img.shields.io/badge/ADS-Newton%20Paiva%20%C2%B7%202026-c4b5fd?style=flat-square" alt="ADS · Newton Paiva · 2026">
+  <img src="https://img.shields.io/badge/ADS-Newton%20Paiva%20%C2%B7%202027-c4b5fd?style=flat-square" alt="ADS · Newton Paiva · 2027">
 </p>
 
 ## 👋 Olá, eu sou o Juan
 
-Sou **Técnico de Suporte N2** e estou terminando **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em dezembro de 2026).
+Trabalho com **suporte técnico** no Grupo Otimiza, já passei pelo N1 e pelo N2, e curso **Análise e Desenvolvimento de Sistemas** na Newton Paiva (conclusão em abril de 2027).
 
 No dia a dia, resolvo problemas de infraestrutura e escrevo documentação que outras pessoas conseguem seguir sozinhas. Fora dele, construo projetos práticos de **IA aplicada, dados e automação**: pipelines de embeddings, busca semântica e fluxos de trabalho com o **Claude Code**.
 
@@ -60,4 +60,4 @@ Gosto de IA que resolve problema de verdade, não como buzzword. Por isso, cada 
 
 ---
 
-<sub>🇺🇸 <b>In English:</b> IT support analyst (Tier 2) finishing a degree in Systems Analysis and Development, building hands-on projects in applied AI, data and automation: embeddings, semantic search and Claude Code workflows. Open to remote or hybrid roles in data and AI.</sub>
+<sub>🇺🇸 <b>In English:</b> IT support technician (previously Tier 1 and Tier 2) studying Systems Analysis and Development (graduating April 2027), building hands-on projects in applied AI, data and automation: embeddings, semantic search and Claude Code workflows. Open to remote or hybrid roles in data and AI.</sub>
