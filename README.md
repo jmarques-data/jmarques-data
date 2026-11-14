@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanmarrques"><img src="https://img.shields.io/badge/LinkedIn-juanmarrques-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/foco-IA%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%B5es-4f8cff?style=flat-square" alt="Foco: IA, Dados e Automações">
+  <a href="https://www.linkedin.com/in/juanmarrques"><img src="https://img.shields.io/badge/LinkedIn-juanmarrques-0131cd?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/foco-IA%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%B5es-0a1b52?style=flat-square" alt="Foco: IA, Dados e Automações">
 </p>
 
 Projetos práticos de **IA aplicada, dados e automação**. Todos com código aberto, dados fictícios e documentação em português e inglês.
@@ -15,7 +15,7 @@ Projetos práticos de **IA aplicada, dados e automação**. Todos com código ab
 
 <a href="https://github.com/jmarques-data/knowledge-base-vectorization"><img src="https://raw.githubusercontent.com/jmarques-data/knowledge-base-vectorization/main/docs/banner.png" alt="Knowledge Base Vectorization" width="100%"></a>
 
-<a href="https://github.com/jmarques-data/knowledge-base-vectorization/actions/workflows/testes.yml"><img src="https://github.com/jmarques-data/knowledge-base-vectorization/actions/workflows/testes.yml/badge.svg" alt="Testes"></a> <img src="https://img.shields.io/badge/Python-3.10%2B-8b5cf6?style=flat-square" alt="Python 3.10+"> <img src="https://img.shields.io/badge/RAG-Claude-c4b5fd?style=flat-square" alt="RAG com Claude"> <img src="https://img.shields.io/badge/license-MIT-86e3bf?style=flat-square" alt="MIT">
+<a href="https://github.com/jmarques-data/knowledge-base-vectorization/actions/workflows/testes.yml"><img src="https://github.com/jmarques-data/knowledge-base-vectorization/actions/workflows/testes.yml/badge.svg" alt="Testes"></a> <img src="https://img.shields.io/badge/Python-3.10%2B-0131cd?style=flat-square" alt="Python 3.10+"> <img src="https://img.shields.io/badge/RAG-Claude-b9fc01?style=flat-square" alt="RAG com Claude"> <img src="https://img.shields.io/badge/license-MIT-0a1b52?style=flat-square" alt="MIT">
 
 **Problema:** no suporte de TI, a solução de um chamado costuma estar escondida em POPs e tickets antigos, e procurar leva tempo.
 **Solução:** o analista pergunta em português, o sistema encontra os trechos certos da base e o Claude responde com os passos, **citando a fonte** de cada informação.
@@ -36,7 +36,7 @@ Pergunta → embedding → busca semântica no ChromaDB → trechos relevantes
 
 <a href="https://github.com/jmarques-data/segundo-cerebro-ia"><img src="https://raw.githubusercontent.com/jmarques-data/segundo-cerebro-ia/main/docs/banner.png" alt="Segundo Cérebro com IA" width="100%"></a>
 
-<img src="https://img.shields.io/badge/Claude%20Code-template-8b5cf6?style=flat-square" alt="Claude Code template"> <img src="https://img.shields.io/badge/Markdown-only-4f8cff?style=flat-square" alt="Markdown"> <img src="https://img.shields.io/badge/license-MIT-86e3bf?style=flat-square" alt="MIT">
+<img src="https://img.shields.io/badge/Claude%20Code-template-0131cd?style=flat-square" alt="Claude Code template"> <img src="https://img.shields.io/badge/Markdown-only-0a1b52?style=flat-square" alt="Markdown"> <img src="https://img.shields.io/badge/license-MIT-0a1b52?style=flat-square" alt="MIT">
 
 **Problema:** estudos, carreira e projetos espalhados na cabeça, em notas soltas e lembretes esquecidos.
 **Solução:** um modelo de pastas Markdown com regras e comandos para o Claude Code capturar, organizar e revisar tudo junto com você.
@@ -50,7 +50,7 @@ Pergunta → embedding → busca semântica no ChromaDB → trechos relevantes
 
 ## 🧰 Stack dos projetos
 
-<img src="https://img.shields.io/badge/Python-1a1530?style=flat-square&logo=python&logoColor=c4b5fd" alt="Python"> <img src="https://img.shields.io/badge/Claude-1a1530?style=flat-square&logo=anthropic&logoColor=c4b5fd" alt="Claude"> <img src="https://img.shields.io/badge/Claude%20Code-1a1530?style=flat-square&logo=anthropic&logoColor=c4b5fd" alt="Claude Code"> <img src="https://img.shields.io/badge/ChromaDB-1a1530?style=flat-square" alt="ChromaDB"> <img src="https://img.shields.io/badge/Embeddings-1a1530?style=flat-square" alt="Embeddings"> <img src="https://img.shields.io/badge/RAG-1a1530?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/pytest-1a1530?style=flat-square&logo=pytest&logoColor=c4b5fd" alt="pytest"> <img src="https://img.shields.io/badge/GitHub%20Actions-1a1530?style=flat-square&logo=githubactions&logoColor=c4b5fd" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Markdown-1a1530?style=flat-square&logo=markdown&logoColor=c4b5fd" alt="Markdown"> <img src="https://img.shields.io/badge/Git-1a1530?style=flat-square&logo=git&logoColor=c4b5fd" alt="Git">
+<img src="https://img.shields.io/badge/Python-0131cd?style=flat-square&logo=python&logoColor=b9fc01" alt="Python"> <img src="https://img.shields.io/badge/Claude-0131cd?style=flat-square&logo=anthropic&logoColor=b9fc01" alt="Claude"> <img src="https://img.shields.io/badge/Claude%20Code-0131cd?style=flat-square&logo=anthropic&logoColor=b9fc01" alt="Claude Code"> <img src="https://img.shields.io/badge/ChromaDB-0131cd?style=flat-square" alt="ChromaDB"> <img src="https://img.shields.io/badge/Embeddings-0131cd?style=flat-square" alt="Embeddings"> <img src="https://img.shields.io/badge/RAG-0131cd?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/pytest-0131cd?style=flat-square&logo=pytest&logoColor=b9fc01" alt="pytest"> <img src="https://img.shields.io/badge/GitHub%20Actions-0131cd?style=flat-square&logo=githubactions&logoColor=b9fc01" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Markdown-0131cd?style=flat-square&logo=markdown&logoColor=b9fc01" alt="Markdown"> <img src="https://img.shields.io/badge/Git-0131cd?style=flat-square&logo=git&logoColor=b9fc01" alt="Git">
 
 ---
 
